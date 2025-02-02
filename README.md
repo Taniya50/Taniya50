@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is  Taniya 👋</p>
+<h2 align="left">My name is  Taniya 👋</h2>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">🎓 BTech 3rd Year Student at MIT College<br>💻 Passionate about Java Development, SQL, and Frontend Technologies<br>🎯 Currently improving Data Structures, Algorithms, and System Design<br>💡 Languages: Java, SQL<br>🖥️ Frameworks & Tools: Swing, AWT, IntelliJ IDEA, Git, GitHub<br>📊 Databases: MySQL<br>📁 Version Control: Git & GitHub</p>
+<h3 align="left">🎓 BTech 3rd Year Student at MIT College<br>💻 Passionate about Java Development ,C, SQL, and Frontend Technologies<br>🎯 Currently improving Data Structures, Algorithms, and System Design<br>💡 Languages: Java, SQL<br>🖥️ Frameworks & Tools: Swing, AWT, IntelliJ IDEA, Git, GitHub<br>📊 Databases: MySQL<br>📁 Version Control: Git & GitHub</h3>
 
 ###
 
