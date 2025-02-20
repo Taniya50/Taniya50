@@ -1,4 +1,4 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+[<h1 align="left">Hey 👋 What's up?</h1>
 
 ###
 
@@ -61,4 +61,4 @@
 
 <img src="https://raw.githubusercontent.com/Taniya50/Taniya50/output/snake.svg" alt="Snake animation" />
 
-###
+###](https://www.linkedin.com/in/taniya-dod-5b236b286/)
