@@ -10,7 +10,7 @@
 
 ###
 
-<h3 align="left">🎓 BTech 3rd Year Student at MIT College<br>💻 Passionate about Java Development ,C, SQL, and Frontend Technologies<br>🎯 Currently improving Data Structures, Algorithms, and System Design<br>💡 Languages: Java, SQL<br>🖥️ Frameworks & Tools: Swing, AWT, IntelliJ IDEA, Git, GitHub<br>📊 Databases: MySQL<br>📁 Version Control: Git & GitHub</h3>
+<h3 align="left">🎓 BTech 4th Year Student at MIT College<br>💻 Passionate about Java Development ,C, SQL, and Frontend Technologies<br>🎯 Currently improving Data Structures, Algorithms, and System Design<br>💡 Languages: Java, SQL<br>🖥️ Frameworks & Tools: Swing, AWT, IntelliJ IDEA, Git, GitHub<br>📊 Databases: MySQL<br>📁 Version Control: Git & GitHub</h3>
 
 ###
 
